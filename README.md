@@ -273,3 +273,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+----
+- Name: David Onifade
+- School: Miva University 
+- Aim for the stars, maybe you'll touch the sky”
+----
